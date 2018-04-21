@@ -3,8 +3,7 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+[Bb]uilds/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
